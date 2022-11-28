@@ -1,4 +1,4 @@
-# 10 Steps To Block Windows Applications From Accessing The Internet.
+# 10 Steps To Block Windows Applications From Accessing The Internet
 
 Step 1. Search “win” on windows 10 and open this 😛
 
