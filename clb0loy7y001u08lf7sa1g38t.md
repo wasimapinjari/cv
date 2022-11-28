@@ -1,6 +1,6 @@
 # 10 Steps To Block Windows Applications From Accessing The Internet
 
-Step 1. Search “win” on windows 10 and open this 😛
+Step 1. Search “win” on windows 10 and open this
 
 ![1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1669628023717/1YQ85Lv_F.png align="left")
 
